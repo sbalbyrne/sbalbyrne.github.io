@@ -1,2 +1,6 @@
 # sbalbyrne.github.io
-The SBalByrne Site
+Sebastiano Baldocchi Byrne
+
+---
+
+Here is the site information for my website
