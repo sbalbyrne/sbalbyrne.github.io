@@ -14,7 +14,6 @@ A current side "project" is learning C++ through the implementation of a HPC pro
 Alas, for the time being I have been studying about compute optimizations.
 
 # Site Links
-[Go Back](./)
-[Classes](./classes/)
-[Projects](./projects/)
-[Reports and Publications](./reports/)
+- [Classes](./classes/)
+- [Projects](./projects/)
+- [Reports and Publications](./reports/)
