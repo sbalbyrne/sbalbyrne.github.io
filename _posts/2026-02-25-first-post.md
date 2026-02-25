@@ -2,7 +2,6 @@
 layout: post
 title:  "First Post"
 date:   2026-02-25 17:35
-categories: university
 ---
 
 # First Post
