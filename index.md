@@ -1,5 +1,3 @@
-Main page
-
 # Main page
 Hello, I am Sebastiano Baldocchi Byrne, studying to be an aerospace engineer.
 
