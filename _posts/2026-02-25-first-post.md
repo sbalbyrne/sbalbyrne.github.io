@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First Post"
-date:   2026-02-25 17:35
+date:   2026-02-25 17:35:00 +1000
 ---
 
 # First Post
