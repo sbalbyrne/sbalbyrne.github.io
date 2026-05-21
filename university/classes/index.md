@@ -12,4 +12,9 @@ title: Classes
 - Aerospace Structures
 - Aerospace Design and Manufacturing
 
+## Semester 2
 
+- Aerospace Propulsion
+- Industry 4.0
+- Automated Design System
+- Finite Element Analysis

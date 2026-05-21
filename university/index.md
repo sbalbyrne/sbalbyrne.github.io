@@ -19,9 +19,6 @@ This involves the following:
 - Designing a model CubeSat, following NASA CSLI information and the CDS, and information available on the NASA S3VI
 - Being a part-time member of the RMIT Satellite Club
 
-In more silly things:
-- Using Kerbal Space Program (a game based on Newtonian physics and that uses Patched Conic Approximations for orbital simulations) to simulate running a mini-spaceprogram using the NASA Mission Design Booklet
-
 # Site Links
 - [Classes](./classes/)
 - [Projects](./projects/)
