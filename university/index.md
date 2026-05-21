@@ -8,10 +8,16 @@ title: University
 
 I started to study at RMIT University in 2024, studying for a Bachelor of Engineering (Aerospace Engineering).
 
-To date (Feb 2026) I have completed 50% of my units of study. During my spare time in semester I tended to study technical things that lay within the general scope of broader engineering but not strictly within my discipline.
-
-A current side "project" is learning C++ through the implementation of a HPC program (High Performance Compute) making use of OpenACC, OpenMP and MPI. I have been planning to incorporate a few engineering concepts into this program.
-Alas, for the time being I have been studying about compute optimizations.
+To date (Feb 2026) I have completed 50% of my units of study.
+In my spare time, I have been doing independent "experiments" side tangents that are vaguely related to my courses or things I have learned.
+This involves the following:
+- Learning FreeCAD and cfdof 
+  - Experimentation with nozzles and nozzle flow in 2D and 3D
+- Implementing a practical calculator in C++ using OpenMP
+- Designing a model of Sojourner with plans to manufacture a functioning mostly 3D printed model
+  - This will hopefully culminate in a derived version of Sojourner
+- Designing a model CubeSat, following NASA CSLI information and the CDS, and information available on the NASA S3VI
+- Being a part-time member of the RMIT Satellite Club
 
 # Site Links
 - [Classes](./classes/)
