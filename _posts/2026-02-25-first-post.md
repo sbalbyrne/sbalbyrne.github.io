@@ -1,7 +1,9 @@
 ---
-layout: post
 title:  "First Post"
-date:   2026-02-25 17:35:00 +1000
+date:   2026-02-25
+permalink: /posts/2026/02/first-post/
+tags:
+  - site_news
 ---
 
 # First Post
