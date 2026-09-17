@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: underconstruction
 title: Projects
 ---
 
 # Year 3
 
-Yet to Come...
+## Finite Element Analysis
+Optimizations
+
+## Automated System Design
+

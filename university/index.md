@@ -23,3 +23,4 @@ This involves the following:
 - [Classes](./classes/)
 - [Projects](./projects/)
 - [Reports and Publications](./reports/)
+- [Home](../)
