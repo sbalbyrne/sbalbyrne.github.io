@@ -11,7 +11,8 @@ I started to study at RMIT University in 2024, studying for a Bachelor of Engine
 To date (Feb 2026) I have completed 50% of my units of study.
 In my spare time, I have been doing independent "experiments" side tangents that are vaguely related to my courses or groups I'm part of:
 - Learning FreeCAD, cfdof and OpenFOAM
-  - Experimentation with nozzles and nozzle flow in 2D and 3D
+  - Experimentation with nozzles and nozzle flow in 2D
+  - Experimentation with airfoils and airflow in 2D and 3D
 - Member of RSAT, the RMIT Satellite Team
   - Orbital simulations of the club's RUBI project
 
