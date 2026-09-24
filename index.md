@@ -7,7 +7,7 @@ title: Home! | Sebastiano BByrne
 Welcome to my website. I am a student engineer, not a website designer, sorry for the inconvenience.
 
 # Links to other places
-- [University Things](./university/index.md)
+- [University Things](./university/index.md) Mostly unfinished
 - [~~Portfolio~~](./portfolio/index.md) This is not finished yet...
 
 
